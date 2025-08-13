@@ -12,7 +12,6 @@ It was built using **HTML**, **CSS**, **JavaScript**, and **Bootstrap** with a r
 
 ## 📷 Preview
 ![AirVoyage Screenshot](screenshot.png)  
-*(Replace with the actual image file name in the project folder)*
 
 ---
 
